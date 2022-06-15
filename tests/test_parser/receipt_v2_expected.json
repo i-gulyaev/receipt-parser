@@ -4,52 +4,52 @@
   "date": "2022-06-12T14:05:00",
   "items": [
     {
-      "quantity": 1.332,
-      "price": 79.89,
       "name": "Бананы вес 1кг",
-      "sum": 106.41
+      "price": 79.89,
+      "sum": 106.41,
+      "quantity": 1.332
     },
     {
-      "quantity": 0.772,
-      "price": 17599,
       "name": "Яблоки Гольден вес 1кг",
-      "sum": 135.86
+      "price": 175.99,
+      "sum": 135.86,
+      "quantity": 0.772
     },
     {
-      "quantity": 1,
-      "price": 113.99,
       "name": "Абрикосы импорт 500г",
-      "sum": 113.99
+      "price": 113.99,
+      "sum": 113.99,
+      "quantity": 1
     },
     {
-      "quantity": 1,
-      "price": 226.99,
       "name": "Курага ЛЕНТА без косточки 200г",
-      "sum": 226.99
+      "price": 226.99,
+      "sum": 226.99,
+      "quantity": 1
     },
     {
-      "quantity": 1,
-      "price": 356.99,
       "name": "Кешью DOLCE ALBERO жареный 200г",
-      "sum": 356.99
+      "price": 356.99,
+      "sum": 356.99,
+      "quantity": 1
     },
     {
-      "quantity": 0.306,
-      "price": 339.89,
+      "sum": 104.01,
       "name": "Черешня вес 1кг",
-      "sum": 104.01
+      "price": 339.89,
+      "quantity": 0.306
     },
     {
-      "quantity": 1,
-      "price": 167.29,
       "name": "Сыр MILKANA GrandBlu Интенс плес 50% 100",
-      "sum": 167.29
+      "price": 167.29,
+      "sum": 167.29,
+      "quantity": 1
     },
     {
-      "quantity": 1,
-      "price": 182.76,
       "name": "Мороженое КОРОВ ИЗ КОРЕНОВ пл пол15%400г",
-      "sum": 182.76
+      "price": 182.76,
+      "sum": 182.76,
+      "quantity": 1
     }
   ]
 }

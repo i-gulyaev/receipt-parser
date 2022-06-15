@@ -14,7 +14,7 @@ def parse_item(data: Any) -> Dict[str, Any]:
         "name": data["name"],
         "price": int(data["price"]) / 100.0,
         "sum": int(data["sum"]) / 100.0,
-        "quantity": int(data["quantity"]),
+        "quantity": float(data["quantity"]),
     }
 
 

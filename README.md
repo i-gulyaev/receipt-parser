@@ -1,3 +1,5 @@
+[![Build and test](https://github.com/i-gulyaev/receipt-parser/actions/workflows/ci-tests.yml/badge.svg?branch=main&event=push)](https://github.com/i-gulyaev/receipt-parser/actions/workflows/ci-tests.yml)
+
 # Receipt Parser
 
 ## Overview

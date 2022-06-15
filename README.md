@@ -6,7 +6,7 @@ Receipts are obtained with using the app provided by Federal Tax Authority [IOS]
 
 ## Usage
 
-```
+```python
 import json
 
 import receipt_parser as rp
